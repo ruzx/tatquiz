@@ -1,2 +1,2 @@
 Several exercises and quizzes
-https://ruzx.github.io/chemstem/index.html
+https://ruzx.github.io/tatquiz/index.html
